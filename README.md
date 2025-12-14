@@ -1,5 +1,6 @@
 # 👋 Hi, I'm boredofspeedruns 
 You may also know me as rox or lifewasterme.
+
 I'm a **web developer by profession** and a **reverse-engineering & game modding enthusiast by hobby**.
 
 ---
