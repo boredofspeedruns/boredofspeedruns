@@ -39,9 +39,6 @@ I enjoy working on:
 ### Languages & Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js)](https://skillicons.dev)
 
-### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,tailwind,jquery)](https://skillicons.dev)
-
 ### Dev Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,figma)](https://skillicons.dev)
 
